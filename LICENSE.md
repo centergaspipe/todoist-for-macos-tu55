@@ -1,4 +1,4 @@
-
+Todoist for macOS premium Macro: widgets & markdown support is the best Todoist for macOS macro, featuring widgets and markdown support. Safe, efficient, and optimized for macOS
 
 
 
